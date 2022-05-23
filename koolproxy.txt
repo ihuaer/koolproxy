@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy 3.8.5]
-!x  -----update[rules]: 2022-05-07 20:00
-!x  -----update[video]: 2022-05-07 22:02
+!x  -----update[rules]: 2022-05-15 11:45
+!x  -----update[video]: 2022-05-15 11:00
 !x  -----Thanks: From lvba Rule Group
 !x  -----Thanks for help: <yiclear> <adbyby> <adm> <adblock> <adguard>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -188,8 +188,10 @@
 @@|http://misc.yinfu.cc/sid/sidplayer.js
 @@|http://mtrace.qq.com
 @@|http://msg.ptqy.gitv.tv/v5/tv/uniapi
+@@|http://msg.ptqy.gitv.tv
 @@|http://note.youdao.com/table/*.js$script
 @@|http://ossweb-img.qq.com/images/nba2k/comm/js/gg.js
+@@|http://pb.bi.gitv.tv/gitv_pb
 @@|http://ping.xlmc.sandai.net
 @@|http://pingtcss.qq.com/
 @@|http://p.store.qq.com/photo
@@ -233,6 +235,7 @@
 @@|http://stat.adpush.cn?__=
 @@|http://static.gtimg.com/vd/act/ggimg/
 @@|http://static.hdslb.com/ad-images/$image
+@@|http://stv.ptqy.gitv.tv/stv
 @@|http://soso.nipic.com/
 @@|http://tajs.qq.com/ping_hotclick_min.js
 @@|http://tajs.qq.com/stats?sId=
@@ -8319,7 +8322,6 @@
 |https://read.qidian.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
 |https://read.qidian.com/$s@</body>@<script>fuckcss('#j-topHeadBox,.games-op-wrap,.right-op-wrap.mb10')</script></body>@
 |https://r3sub.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
-|https://share.dmhy.org/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
 |https://segmentfault.com/$s@</head>@<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js"></script><script src="https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/sizzle_mini"></script>@
 |https://sports.eastday.com/$s@</head>@<script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide_w.js></script><script src=https://cdn.jsdelivr.net/gh/houzi-/CDN/KP-/hide.js charset=UTF-8></script></head>@
 !|https://sports.eastday.com/$s@</body>@<script>fuckcss('.dspAd,.dsp_adxpf,.header_rightad,[id*="_ad_"],.new360ad,#ny_dbhf,.gglist,[src*="/images/ad/adarticle/"],[class^="banner"],[class^="gg-"],[id^="J_topappdownload"],.active-link,.interest-news,[class^="gg_"],[class^="channel_ybq_x gg_"],.ad,.index-ad,.img_click_gg,[class^="jrtt-ad"],[src^="https://mini.eastday.com/toutiaoh5/partner/gg_"],[data-ggid],[class^="ave_bd0"],.ave_spxia,[class*="_adv_"],[class^="ad-r"],.ad-l-three,.iframeDA,.ad-top,.ad-hf-l,.ad-hf-r')</script></body>@
@@ -12300,6 +12302,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://7mmtv.tv/$s@mvspan_2_s_k_i_p_x = 1;@@
 |https://bbs.feng.com/$s@<div><script type="text/javascript">*<!-- header start -->@<!-- header start -->@
 |https://club.m.autohome.com.cn/$s@display: block!important;@display: none!important;@
+|https://deas.cp61.ott.cibntv.net/ikandelivery/vast/$s@<Duration>00:00:15</Duration>@<Duration>00:00:00</Duration>@
 |https://otheve.beacon.qq.com/analytics/$s@/^.*$/@{"msg": "success"}@
 |https://g.pconline.com.cn/$s@"display:block!important;"@"display:none!important;"@
 |https://ip.cn/$s@.height() > 100@@
